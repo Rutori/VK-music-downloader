@@ -1,0 +1,9 @@
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\obj\Debug\musicvk.csprojResolveAssemblyReference.cache
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\obj\Debug\musicvk.MainForm.resources
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\obj\Debug\musicvk.csproj.GenerateResource.Cache
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\bin\Debug\musicvk.exe
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\bin\Debug\musicvk.pdb
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\obj\Debug\musicvk.exe
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\obj\Debug\musicvk.pdb
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Никитка\Documents\SharpDevelop Projects\musicvk\musicvk\bin\Debug\Newtonsoft.Json.xml
